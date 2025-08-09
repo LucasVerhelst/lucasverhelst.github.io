@@ -28,8 +28,8 @@ _merge = "none"
   #email = "john.doe@example.com"
   description = "Landing Page"
   bio = "Knowledge graphs, home automation, news nerd  \nCo-owner BIM-Connected / Wistor"
-  avatar = "Lucas_small.jpg"
-  favicon = "Lucas_favicon.png"
+  avatar = "portretLucasVerhelst.webp"
+  favicon = "favicon.ico"
   error404 = "There is no such page."
 
   [params.contact]
