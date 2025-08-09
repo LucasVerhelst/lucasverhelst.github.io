@@ -27,7 +27,7 @@ _merge = "none"
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
   description = "Landing Page"
-  bio = "Linked data, home automation, news nerd  \nCo-owner BIM-Connected / Wistor"
+  bio = "Knowledge graphs, home automation, news nerd  \nCo-owner BIM-Connected / Wistor"
   avatar = "Lucas_small.jpg"
   favicon = "Lucas_favicon.png"
   error404 = "There is no such page."
